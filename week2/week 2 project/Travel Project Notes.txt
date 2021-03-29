@@ -1,0 +1,14 @@
+Notes for AFS220 project:
+
+Brevan will handle Main section of single page django.-done
+I will handle Navbar section of single page django.-done
+Jessica will handle css.-done
+
+Plans for future parts of the project:
+
+Sign in link should lead to a sign in page with a registration link for registration.
+Set up admin login
+Set up user login
+
+
+Keep ahead of schedule.
